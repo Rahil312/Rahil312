@@ -47,15 +47,6 @@ Highlights:
 - Tech: React, Node/Express, MongoDB, OpenAI APIs  
 Repo: [WolfJobs](https://github.com/Rahil312/WolfJobs)
 
-### Real-time WebRTC + LLM Interview System
-- Low-latency interview agent with streaming audio, orchestration, and structured evaluation.  
-- **LiveKit WebRTC** session lifecycle + WebSocket prompt loops; **30+ concurrent sessions** (demo load).  
-
-### Vector Search Document Pipeline (Postgres)
-- Multilingual doc ingestion → markdown conversion → chunking → embeddings → fast retrieval.  
-- **Top-k semantic search <200ms** on **50k+ chunks** (local benchmarking).  
-- Tech: Python, Pandoc, LangChain, PostgreSQL (vector)  
-
 ### Indian Wildlife Database (Django + Postgres)
 - Designed a relational schema and built a Django UI for CRUD + search workflows.  
 
