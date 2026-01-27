@@ -1,43 +1,60 @@
-# Hi, I'm Rahil 👋
+# Hi, I'm Rahil 👋  
+**Applied AI / Full-Stack Engineer** — real-time systems, LLM workflows, and database-backed products.
 
-**Software Developer | Problem Solver | Lifelong Learner**
+I build production-minded AI features end-to-end: backend services, async orchestration, retrieval/vector search, and UX-facing experiences.
 
-Welcome to my GitHub profile! I enjoy building practical software, learning new tools, and collaborating with others to ship reliable, user-friendly products.
-
----
-
-## 👨‍💻 About Me
-- 💡 Interested in building clean, scalable, and maintainable software
-- 🌱 Currently learning and improving in **full-stack development**
-- 🤝 Open to collaborating on impactful projects
-- 🎯 Focused on continuous improvement and real-world problem solving
+- 🚀 Orchestrated **LiveKit WebRTC + LLM** interview flows over WebSockets; supported **30+ concurrent sessions**
+- 🎙️ Integrated **STT/TTS streaming** with async processing; achieved **sub-second transcription latency**
+- ✅ Built automated **LLM evaluation + scoring + badges**; reduced manual review effort by **60%**
+- 🔎 Shipped **Postgres vector search** pipeline; **top-k <200ms** on **50k+ chunks**
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** JavaScript, TypeScript, Python, Java  
-**Frontend:** React, HTML, CSS  
-**Backend:** Node.js, Express  
-**Tools:** Git, GitHub, VS Code  
+- **Languages:** C++, Python, JavaScript/TypeScript, SQL, Go  
+- **Backend/Systems:** Django, Node.js, Express, FastAPI (if applicable), WebSockets, async pipelines  
+- **Frontend:** React  
+- **Data/ML:** LangChain, embeddings/vectorization, model evaluation/scoring workflows  
+- **Databases:** PostgreSQL (vector), MongoDB  
+- **DevOps/Testing:** Docker, Linux, GitHub Actions (CI/CD), AWS, GCP, PyTest, unit/integration + API testing
 
 ---
 
-## 🚀 What I'm Working On
-- Building and polishing personal projects to strengthen my portfolio
-- Learning best practices around performance, accessibility, and testing
+## ⭐ Featured Projects
+### WolfJobs — MERN Recruiting Platform
+A recruiting workflow platform with resume upload, OTP login, notifications, and scheduling.  
+- Added **OpenAI-powered ATS parsing + JD match scoring** → reduced screening time by **40%** (demo testing)
+- Tech: React, Node/Express, MongoDB, OpenAI APIs  
+Repo: [WolfJobs](https://github.com/Rahil312/WolfJobs)
+
+### Real-time WebRTC + LLM Interview System
+Low-latency interview agent with streaming audio + orchestration + structured evaluation.  
+- **LiveKit WebRTC** session lifecycle + WebSocket prompt loops; **30+ concurrent sessions**
+- **STT/TTS streaming** + async I/O; real-time conversational turn-taking  
+
+
+### Vector Search Document Pipeline (Postgres)
+Multilingual doc ingestion → markdown conversion → chunking → embeddings → fast retrieval.  
+- **Top-k semantic search <200ms** on **50k+ chunks**
+- Tech: Python, Pandoc, LangChain, PostgreSQL (vector)  
+
+
+### Indian Wildlife Database (Django + Postgres)
+Relational schema + Django UI for CRUD and search workflows for non-technical users.  
+
 
 ---
 
-## 📌 Featured Projects
-_Coming soon — I’m curating and polishing projects to showcase here._
+## 🧠 How I build
+- I optimize for **measurable outcomes** (latency, throughput, time saved)
+- Comfortable with **async + streaming** systems (WebRTC, WebSockets, real-time pipelines)
+- Strong testing habits: **unit/integration + API testing**, clean interfaces, predictable behavior
+- Practical debugging mindset: isolate failure modes, log intelligently, fix root causes
+- Product + collaboration oriented: ship iteratively, document decisions, align with stakeholders
 
 ---
 
-## 📫 Connect With Me
-- GitHub: [@Rahil312](https://github.com/Rahil312)
-- LinkedIn: _Add your profile link_
-- Email: _Add your email_
-
----
-
-⭐️ _Thanks for visiting! Feel free to check out my repositories and reach out._
+## 📫 Connect
+- Email: **rahilshukla3122@gmail.com**
+- Linkedin: [Rahil](https://www.linkedin.com/in/rahil-shukla-bb8184204/)
+- GitHub: [Rahil Github](https://github.com/Rahil312)
