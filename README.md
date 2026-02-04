@@ -2,7 +2,7 @@
 
 # Hi, I'm Rahil 👋
 
-**Applied AI / Full-Stack Engineer** — real-time systems, LLM workflows, and database-backed products.
+**Applied AI / Full-Stack Engineer**
 
 
 </div>
