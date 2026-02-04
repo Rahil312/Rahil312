@@ -3,10 +3,12 @@
 # Hi, I'm Rahil 👋
 
 ## **Applied AI / Full-Stack Engineer**
-### *Real-time systems, LLM workflows, and database-backed product
+### Real-time systems, LLM workflows, and database-backed product
 
 
 </div>
+
+---
 
 <p style="font-size: 18px;">
 🎓 <strong>CS Master's student at NC State</strong> who enjoys building end-to-end AI products with measurable impact, from streaming systems to data-backed search and evaluation pipelines.
