@@ -3,7 +3,6 @@
 # Hi, I'm Rahil 👋
 
 ## **Applied AI / Full-Stack Engineer**
-### *Real-time systems, LLM workflows, and database-backed products*
 
 
 </div>
