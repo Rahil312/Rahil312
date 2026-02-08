@@ -30,36 +30,42 @@
 ## 🧰 Tech Stack
 
 ### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚙️ Backend & Systems
+### ⚙️ Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![WebSockets](https://img.shields.io/badge/WebSocket-4f4f4f?style=for-the-badge&logo=websocket&logoColor=white)
 
-### 🎨 Frontend & AI/ML
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-2C5282?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🗄 Databases & Cloud
+### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🔧 DevOps & Tools
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧪 Testing & AI/ML
 ![PyTest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-2C5282?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -94,27 +100,43 @@
 ### 🚀 [WolfJobs — MERN Recruiting Platform](https://github.com/Rahil312/WolfJobs)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-- 🎯 Built full-stack recruiting platform with resume upload, OTP-secured login, automated emails, and interview scheduling
-- 🤖 **OpenAI-powered ATS parsing + JD match scoring** → reduced screening time by **40%**
-- 📊 Comprehensive dashboard for recruiters and job seekers
+- 🎯 Deployed a MERN job portal for applicants and recruiters with job posting, applications, and status tracking using React, TypeScript, Node.js, Express.js, REST APIs and MongoDB
+- 🤖 **Integrated OpenAI API for ATS resume parsing, JD match scoring, cover letter generation, and percentage-based profile matching** → reduced screening time by **40%**
+- 🔐 Implemented OTP two-factor authentication and JWT role-based access control using Nodemailer, Passport JWT, and Mongoose, plus resume PDF upload and in-app viewing using Multer, MongoDB, and React PDF
 
 ---
 
-### 🐾 Indian Wildlife Database
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-- 🗄️ Designed relational schema and built Django UI for CRUD + search workflows
-- 🔍 Advanced filtering and species management system
+### ⚡ Parallel Breadth First Search with OpenMP, MPI, and CUDA
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+- 🚀 Implemented and benchmarked parallel BFS in C and C++ on the Email-Eu core graph using OpenMP, MPI, and CUDA
+- ⚡ **Achieved 4.2× speedup with OpenMP**, 10.3× speedup with MPI using 2D process grid, and **19.7× speedup with CUDA** using CSR and transpose CSR with atomic updates
+- 📊 Comprehensive performance analysis reporting runtime, TEPS, and speedup metrics
+
+---
+
+### 🏭 Food Manufacturing Inventory Database Management System  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- 🗄️ Built Python and MySQL inventory and production DBMS using SQL procedures, triggers, views, and transactions, improving data integrity
+- 📦 **Implemented FEFO lot allocation and batch costing** → reduced manual inventory allocation effort by **80%**
+- 🔐 Added role-based access and compliance reporting, reducing audit and stock monitoring time by **60%**
+
+---
 
 ### 🌱 Plant Disease Classification  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- 🧠 Trained CNN/ResNet models for image classification
-- 📈 Systematic hyperparameter tuning and performance validation
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- 🧠 **Trained CNN and ResNet models** with improved validation performance via hyperparameter tuning and systematic evaluation
+- 📊 **Benchmarked deep features vs classical ML baselines** (Logistic Regression, Random Forests, KNN) to validate robustness and reduce overfitting risk
 
 </div>  
 
@@ -140,7 +162,7 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahil-shukla-bb8184204/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahilshukla/)
 [![Gmail](https://img.shields.io/badge/Gmail-rahil-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahilshukla3122@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahil312)
 
