@@ -3,7 +3,7 @@
 # Hi, I'm Rahil 👋
 
 ## **Applied AI / Full-Stack Engineer**
-### *Real-time systems, LLM workflows, and database-backed products*
+### Real-time systems, LLM workflows, and database-backed product
 
 
 </div>
@@ -97,7 +97,7 @@
 
 <div style="font-size: 16px;">
 
-### 🚀 [WolfJobs — MERN Recruiting Platform](https://github.com/Rahil312/WolfJobs)
+### 🚀 [WolfJobs — MERN Recruiting Platform](https://github.com/Rahil312/WolfJobs/tree/New)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
