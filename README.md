@@ -193,7 +193,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahilshukla/)
 [![Gmail](https://img.shields.io/badge/Gmail-rahil-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahilshukla3122@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahil312)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29a19c?style=for-the-badge&logo=https://rahilshukla.com//favicon-32x32.png)](https://rahilshukla.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29a19c?style=for-the-badge)](https://rahilshukla.com)
 
 <p style="font-size: 18px; font-style: italic;">
 <strong>Always excited to discuss AI, full-stack development, or potential collaborations!</strong> 🚀
