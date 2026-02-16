@@ -42,14 +42,17 @@
 ### ⚙️ Backend & Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-4B8BBE?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![WebSockets](https://img.shields.io/badge/WebSocket-4f4f4f?style=for-the-badge&logo=websocket&logoColor=white)
 
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-FF7043?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -60,12 +63,24 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🧪 Testing & AI/ML
-![PyTest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🧪 Testing
+![PyTest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-1976D2?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration%20Testing-388E3C?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-FBC02D?style=for-the-badge)
+
+### 🤖 AI/ML/LLM
+![RAG](https://img.shields.io/badge/RAG-1976D2?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-2C5282?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -105,8 +120,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 - 🎯 Deployed a **MERN** job portal for applicants and recruiters with job posting, applications, and status tracking using **React, TypeScript, Node.js, Express.js, REST APIs and MongoDB**.
 - 🤖 **Integrated OpenAI API for ATS resume parsing, JD match scoring, cover letter generation, percentage-based profile matching, and recruiter filtering/sorting** → reduced screening time by **40%**
@@ -118,6 +134,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-0033A0?style=for-the-badge&logo=openmp&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-004080?style=for-the-badge&logo=mpi&logoColor=white)
 
 - 🚀 Benchmarked and optimized parallel BFS in C and C++ on the Email-Eu-core graph using OpenMP, MPI, and CUDA.
 - ⚡ **Achieved 4.2× speedup with OpenMP** direction-optimizing BFS, **10.3× speedup with MPI** using a 2D process grid for frontier exchange on 16 ranks, and **19.7× speedup with CUDA** using CSR and transposed CSR with atomic updates.
@@ -128,6 +146,10 @@
 ### 🏭 Food Manufacturing Inventory Database Management System  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4B8BBE?style=for-the-badge)
+![FEFO Algorithm](https://img.shields.io/badge/FEFO%20Algorithm-6A1B9A?style=for-the-badge)
+![Batch Costing](https://img.shields.io/badge/Batch%20Costing-00897B?style=for-the-badge)
 - 🗄️ Built a **Python** and **MySQL** inventory and production **DBMS** using SQL procedures, triggers, views, and transactions, improving data integrity
 - 📦 **Implemented FEFO lot allocation and batch costing**, reducing manual inventory allocation effort by **80%**
 - 🔐 Added **role-based access** and compliance reporting, shortening audit and stock monitoring time by **60%**
@@ -139,6 +161,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 - 🧠 **Trained CNN and ResNet models** with improved validation performance via hyperparameter tuning and systematic evaluation.
 - 📊 **Benchmarked deep features vs classical ML baselines** (Logistic Regression, Random Forests, KNN) to validate robustness and reduce overfitting risk.
 
