@@ -74,20 +74,23 @@
 <div style="font-size: 16px;">
 
 ### 🤖 Cogbee — AI Engineer Intern (May 2025 – Jul 2025)
-- Built Python microservices to orchestrate LiveKit WebRTC sessions and LLM prompt-loop dialogues over WebSockets, supporting **30+ concurrent interview sessions** (demo load).  
-- Integrated OpenAI STT/TTS with async streaming I/O for real-time turn-taking and **sub-second transcription latency** (typical demo audio).  
-- Implemented automated LLM evaluation (structured Q&A, composite scoring, soft-skill badges), reducing manual review effort by **60%** (internal pilot).  
+- Architected and shipped Python REST microservices to orchestrate LiveKit WebRTC sessions and LLM prompt-loop dialogues over WebSockets, supporting **30+ concurrent sessions** with robust session lifecycle management.
+- Integrated OpenAI STT and TTS with asynchronous processing and streaming I/O, achieving **sub-second transcription latency** and real-time audio synthesis for conversational turn-taking.
+- Automated LLM output evaluation (structured Q&A, composite scoring, soft-skill badges), decreasing manual review effort by **60%** and standardizing outputs for downstream product/analytics consumption.
+- Containerized services with Docker; deployed and managed them on Kubernetes, enhancing environment consistency and enablingreliable rollouts of backend microservices.
 
 ### 🐍 AVI - Web Solutions — Python Intern Developer (Jan 2024 – Jun 2024)
-- Built a multilingual document processing pipeline (conversion → chunking → embeddings) using Python, Pandoc, and LangChain.  
-- Stored vectors in PostgreSQL to enable **top-k semantic search <200ms** on **50k+ chunks** (local benchmarking).  
+- Built a multilingual LLM/RAG document processing pipeline in Python using Pandoc and LangChain: convert files → chunk text → generate embeddings → store in PostgreSQL → fast semantic retrieval for internal users.
+- Stored OpenAI embeddings in a PostgreSQL vector database and retrieved **top-k semantic matches in 200ms** over **50k+ chunks**, improving search relevance and retrieval speed.
 
 ### 📈 Vonly - Data Analytics Solutions — Software Engineer Intern (May 2023 – Jul 2023)
-- Built interactive Redash dashboards for 10+ stakeholders, cutting report turnaround from hours to minutes.  
-- Developed a C# + Python metadata consolidation system, reducing duplicate/incorrect mappings by **25%** (internal QA).  
+- Created an interactive Redash analytics dashboards for **10+ stakeholders**, reducing recurring reporting turnaround from **hours to minutes**.
+- Developed a system in **C#** and **Python** to map and consolidate metadata entities across platforms, strengthening ID consistency and reducing duplicate and incorrect mappings by **25%**.  
 
 ### 🏫 DAIICT — Teaching Assistant (Aug 2023 – Jan 2024)
-- Led weekly tutorials for 120+ students, graded 300+ submissions, and improved grading consistency with a clear rubric.  
+- Facilitated to course delivery by assisting with in-class instruction, records, assignments, projects, and exams.
+- Managed grading for a class of **300+** students across assignments, quizzes, exams, and projects, providing timely, actionable feedback and ensuring consistent evaluation.
+- Led weekly tutorial sessions and office hours, answering student questions and reinforcing core problem-solving techniques—strengthening leadership, mentoring, communication, and structured problem-solving. 
 
 </div>  
 
@@ -105,8 +108,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-- 🎯 Deployed a MERN job portal for applicants and recruiters with job posting, applications, and status tracking using React, TypeScript, Node.js, Express.js, REST APIs and MongoDB
-- 🤖 **Integrated OpenAI API for ATS resume parsing, JD match scoring, cover letter generation, and percentage-based profile matching** → reduced screening time by **40%**
+- 🎯 Deployed a **MERN** job portal for applicants and recruiters with job posting, applications, and status tracking using **React, TypeScript, Node.js, Express.js, REST APIs and MongoDB**.
+- 🤖 **Integrated OpenAI API for ATS resume parsing, JD match scoring, cover letter generation, percentage-based profile matching, and recruiter filtering/sorting** → reduced screening time by **40%**
 - 🔐 Implemented OTP two-factor authentication and JWT role-based access control using Nodemailer, Passport JWT, and Mongoose, plus resume PDF upload and in-app viewing using Multer, MongoDB, and React PDF
 
 ---
@@ -115,8 +118,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-- 🚀 Implemented and benchmarked parallel BFS in C and C++ on the Email-Eu core graph using OpenMP, MPI, and CUDA
-- ⚡ **Achieved 4.2× speedup with OpenMP**, 10.3× speedup with MPI using 2D process grid, and **19.7× speedup with CUDA** using CSR and transpose CSR with atomic updates
+
+- 🚀 Benchmarked and optimized parallel BFS in C and C++ on the Email-Eu-core graph using OpenMP, MPI, and CUDA.
+- ⚡ **Achieved 4.2× speedup with OpenMP** direction-optimizing BFS, **10.3× speedup with MPI** using a 2D process grid for frontier exchange on 16 ranks, and **19.7× speedup with CUDA** using CSR and transposed CSR with atomic updates.
 - 📊 Comprehensive performance analysis reporting runtime, TEPS, and speedup metrics
 
 ---
@@ -124,9 +128,9 @@
 ### 🏭 Food Manufacturing Inventory Database Management System  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- 🗄️ Built Python and MySQL inventory and production DBMS using SQL procedures, triggers, views, and transactions, improving data integrity
-- 📦 **Implemented FEFO lot allocation and batch costing** → reduced manual inventory allocation effort by **80%**
-- 🔐 Added role-based access and compliance reporting, reducing audit and stock monitoring time by **60%**
+- 🗄️ Built a **Python** and **MySQL** inventory and production **DBMS** using SQL procedures, triggers, views, and transactions, improving data integrity
+- 📦 **Implemented FEFO lot allocation and batch costing**, reducing manual inventory allocation effort by **80%**
+- 🔐 Added **role-based access** and compliance reporting, shortening audit and stock monitoring time by **60%**
 
 ---
 
@@ -135,8 +139,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- 🧠 **Trained CNN and ResNet models** with improved validation performance via hyperparameter tuning and systematic evaluation
-- 📊 **Benchmarked deep features vs classical ML baselines** (Logistic Regression, Random Forests, KNN) to validate robustness and reduce overfitting risk
+- 🧠 **Trained CNN and ResNet models** with improved validation performance via hyperparameter tuning and systematic evaluation.
+- 📊 **Benchmarked deep features vs classical ML baselines** (Logistic Regression, Random Forests, KNN) to validate robustness and reduce overfitting risk.
 
 </div>  
 
@@ -165,6 +169,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahilshukla/)
 [![Gmail](https://img.shields.io/badge/Gmail-rahil-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahilshukla3122@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahil312)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29a19c?style=for-the-badge&logo=https://rahilshukla.com//favicon-32x32.png)](https://rahilshukla.com)
 
 <p style="font-size: 18px; font-style: italic;">
 <strong>Always excited to discuss AI, full-stack development, or potential collaborations!</strong> 🚀
